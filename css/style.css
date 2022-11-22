@@ -1,0 +1,17 @@
+body {
+    background-color: #020202;
+}
+
+p {
+    display: inline;
+    font-size: 50px;
+    margin-top: 0px;
+
+}
+
+.count {
+    text-align: center;
+    padding-top: 20%;
+    font-family: sans-serif;
+    color: #FFFF;
+}
