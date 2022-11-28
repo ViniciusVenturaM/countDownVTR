@@ -28,6 +28,6 @@ var myfunc = setInterval(function () {
         for (let i = 0; i < 4; i++) {
             dateInfos[i].style.display = "none";
         }
-        document.getElementById("end").innerHTML = "VTR NO DEV!";
+        document.getElementById("end").innerHTML = "Churras DEV Brasil 2022!";
     }
 }, 1000);
